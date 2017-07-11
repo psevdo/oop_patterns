@@ -32,6 +32,8 @@
  * создаются продукты (в нашем случае юниты) этого семейства.
  *
  * http://dron.by/post/pattern-proektirovaniya-abstract-factory-abstraktnaya-fabrika-na-php.html
+ *
+ * Еще есть хороший пример тут: http://devacademy.ru/posts/shablony-proiektirovaniia-v-php/
  */
 
 interface Footman {}
